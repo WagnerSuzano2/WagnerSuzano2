@@ -1,6 +1,11 @@
 ### Olá, pessoal 👋
+Meu nome e wagner suzano, atual estou me densenvolvendo em back-end
 
-<!--
+Para me encontrar:
+
+![[Linkedin](https://www.linkedin.com/in/wagnersuzanourivi/)]
+
+
 **WagnerSuzano2/WagnerSuzano2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
